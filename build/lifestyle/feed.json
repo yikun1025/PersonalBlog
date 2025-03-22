@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "个人博客",
+    "home_page_url": "https://www.yikunblog.space/lifestyle",
+    "description": "Fangyikun Jian Blog Blog",
+    "items": [
+        {
+            "id": "/1-Algorithm-basic",
+            "content_html": null,
+            "url": "https://www.yikunblog.space/lifestyle/1-Algorithm-basic",
+            "title": "1-Algorithm-basic",
+            "summary": "to be continue ...",
+            "date_modified": "2025-03-16T03:36:23.494Z",
+            "tags": []
+        }
+    ]
+}

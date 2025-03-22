@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.yikunblog.space/</id>
+    <title>Fangyikun Jian</title>
+    <updated>2025-03-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.yikunblog.space/"/>
+    <subtitle>Fangyikun Jian Blog Blog</subtitle>
+    <icon>https://www.yikunblog.space/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hack computer consists of ROM, CPU and RAM.]]></title>
+        <id>/01-Hack-Computer-Introduction</id>
+        <link href="https://www.yikunblog.space/01-Hack-Computer-Introduction"/>
+        <updated>2025-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hack computer consists of ROM, CPU and RAM.]]></summary>
+    </entry>
+</feed>
