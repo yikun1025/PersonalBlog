@@ -4,8 +4,8 @@ const katex = require('rehype-katex');
 module.exports = {
   title: "Fangyikun Jian Blog",
   titleDelimiter: "-",
-  url: 'https://yikun1025.github.io', // 正确的配置，没有多余的 'url:'
-  baseUrl: '/PersonalBlog/', 
+  url: 'https://yikunblog.space', // 正确的配置，没有多余的 'url:'
+  baseUrl: '/', 
   favicon: "img/icon.png",
   organizationName: "yikun1025",
   projectName: "PersonalBlog",
@@ -26,7 +26,7 @@ module.exports = {
       logo: {
         alt: "cuteBird",
         src: "img/icon.png",
-        srcDark: "img/licon.pngs",
+        srcDark: "img/icon.png",
       },
       items: [
         {
