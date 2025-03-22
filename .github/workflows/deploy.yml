@@ -13,21 +13,16 @@ jobs:
         with:
           node-version: 18
           cache: yarn
-      
-      # 切换到项目目录
-      - name: Change to project directory
-        run: cd my-new-blog  # 替换为你的 Docusaurus 项目文件夹名称
-      
       - name: Install dependencies
         run: yarn install --frozen-lockfile
       
       - name: Build website
         run: yarn build
       
-      - name: Deploy to GitHub Pages
+      - name="Deploy to GitHub Pages"
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./my-new-blog/build  # 注意路径
+          publish_dir: ./build
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com

@@ -4,11 +4,11 @@ const katex = require('rehype-katex');
 module.exports = {
   title: "Fangyikun Jian Blog",
   titleDelimiter: "-",
-  url: 'https://yikun1025.github.io', // 正确的配置，没有多余的 'url:'
-  baseUrl: '/', // 通常是你的项目名，以 '/' 开头和结尾
-  favicon: "img/icon.png",
+  url: 'https://yikun1025.github.io',
+  baseUrl: '/PersonalBlog/', 
   organizationName: "yikun1025",
   projectName: "PersonalBlog",
+  favicon: "img/icon.png",
 
    // 部署相关配置
   deploymentBranch: 'gh-pages', // GitHub Pages 默认分支
