@@ -4,7 +4,7 @@ const katex = require('rehype-katex');
 module.exports = {
   title: "Fangyikun Jian Blog",
   titleDelimiter: "-",
-  url: "url: 'https://yikun1025.github.io',
+  url: 'https://yikun1025.github.io', // 正确的配置，没有多余的 'url:'
   baseUrl: '/PersonalBlog/', // 通常是你的项目名，以 '/' 开头和结尾
   favicon: "img/icon.png",
   organizationName: "yikun1025",

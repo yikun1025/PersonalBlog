@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>个人博客</title>
-        <link>https://www.yikunblog.space/lifestyle</link>
+        <link>https://yikun1025.github.io/PersonalBlog/lifestyle</link>
         <description>Fangyikun Jian Blog Blog</description>
         <lastBuildDate>Sun, 16 Mar 2025 03:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>zh-CN</language>
         <item>
             <title><![CDATA[1-Algorithm-basic]]></title>
-            <link>https://www.yikunblog.space/lifestyle/1-Algorithm-basic</link>
+            <link>https://yikun1025.github.io/PersonalBlog/lifestyle/1-Algorithm-basic</link>
             <guid>/1-Algorithm-basic</guid>
             <pubDate>Sun, 16 Mar 2025 03:36:23 GMT</pubDate>
             <description><![CDATA[to be continue ...]]></description>
