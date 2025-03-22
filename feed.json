@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Fangyikun Jian",
-    "home_page_url": "https://yikun1025.github.io/",
+    "home_page_url": "https://yikun1025.github.io/PersonalBlog/",
     "description": "Fangyikun Jian Blog Blog",
     "items": [
         {
             "id": "/01-Hack-Computer-Introduction",
             "content_html": null,
-            "url": "https://yikun1025.github.io/01-Hack-Computer-Introduction",
+            "url": "https://yikun1025.github.io/PersonalBlog/01-Hack-Computer-Introduction",
             "title": "Hack computer consists of ROM, CPU and RAM.",
             "summary": "Hack computer consists of ROM, CPU and RAM.",
             "date_modified": "2025-03-02T00:00:00.000Z",
