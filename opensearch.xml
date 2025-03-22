@@ -4,8 +4,8 @@
   <ShortName>Fangyikun Jian Blog</ShortName>
   <Description>Search Fangyikun Jian Blog</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://yikun1025.github.io/PersonalBlog/img/icon.png</Image>
-  <Url type="text/html" method="get" template="https://yikun1025.github.io/PersonalBlog/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://yikun1025.github.io/PersonalBlog/opensearch.xml" />
-  <moz:SearchForm>https://yikun1025.github.io/PersonalBlog/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://yikunblog.space/img/icon.png</Image>
+  <Url type="text/html" method="get" template="https://yikunblog.space/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://yikunblog.space/opensearch.xml" />
+  <moz:SearchForm>https://yikunblog.space/</moz:SearchForm>
 </OpenSearchDescription>
