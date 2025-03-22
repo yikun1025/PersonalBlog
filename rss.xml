@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Fangyikun Jian</title>
+        <link>https://yikun1025.github.io/</link>
+        <description>Fangyikun Jian Blog Blog</description>
+        <lastBuildDate>Sun, 02 Mar 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-CN</language>
+        <item>
+            <title><![CDATA[Hack computer consists of ROM, CPU and RAM.]]></title>
+            <link>https://yikun1025.github.io/01-Hack-Computer-Introduction</link>
+            <guid>/01-Hack-Computer-Introduction</guid>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hack computer consists of ROM, CPU and RAM.]]></description>
+        </item>
+    </channel>
+</rss>

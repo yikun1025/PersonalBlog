@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yikun1025.github.io/lifestyle</id>
+    <title>个人博客</title>
+    <updated>2025-03-22T15:22:28.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yikun1025.github.io/lifestyle"/>
+    <subtitle>Fangyikun Jian Blog Blog</subtitle>
+    <icon>https://yikun1025.github.io/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[1-Algorithm-basic]]></title>
+        <id>/1-Algorithm-basic</id>
+        <link href="https://yikun1025.github.io/lifestyle/1-Algorithm-basic"/>
+        <updated>2025-03-22T15:22:28.000Z</updated>
+        <summary type="html"><![CDATA[to be continue ...]]></summary>
+    </entry>
+</feed>
